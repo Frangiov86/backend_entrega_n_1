@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "description": "Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 C16",
+    "code": "CMK16GX4M2B3200C16",
+    "price": 89.99,
+    "status": "disponible",
+    "stock": 120,
+    "category": "memoria ram",
+    "thumbnails": ["public/resources/images/corsair_vengeance_lpx.jpg"]
+  },
+  {
+    "id": 2,
+    "description": "G.SKILL Ripjaws V 16GB (2 x 8GB) DDR4-3600 C16",
+    "code": "F4-3600C16D-16GVK",
+    "price": 94.99,
+    "status": "disponible",
+    "stock": 80,
+    "category": "memoria ram",
+    "thumbnails": ["public/resources/images/gskill_ripjaws_v.jpg"]
+  },
+  {
+    "id": 3,
+    "description": "Kingston HyperX Fury 8GB (1 x 8GB) DDR4-2666",
+    "code": "HX426C16FB/8",
+    "price": 45.99,
+    "status": "disponible",
+    "stock": 200,
+    "category": "memoria ram",
+    "thumbnails": ["public/resources/images/kingston_hyperx_fury.jpg"]
+  },
+  {
+    "id": 4,
+    "description": "Crucial Ballistix 16GB (2 x 8GB) DDR4-3000",
+    "code": "BL2K8G30C15U4B",
+    "price": 72.99,
+    "status": "disponible",
+    "stock": 150,
+    "category": "memoria ram",
+    "thumbnails": ["public/resources/images/crucial_ballistix.jpg"]
+  },
+  {
+    "id": 5,
+    "description": "Team T-Force Delta RGB 16GB (2 x 8GB) DDR4-3200",
+    "code": "TF4D416G3200HC16CDC01",
+    "price": 109.99,
+    "status": "disponible",
+    "stock": 60,
+    "category": "memoria ram",
+    "thumbnails": ["public/resources/images/team_tforce_delta_rgb.jpg"]
+  }
+]
